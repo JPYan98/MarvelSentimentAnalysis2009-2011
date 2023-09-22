@@ -2,6 +2,8 @@
 
 This repository contains a comprehensive Python code to perform text and sentiment analysis on dialogues from Marvel Cinematic Universe movies released between 2008 and 2011. The analysis provides insights into the popularity and sentiment associated with the top characters in the Marvel franchise during this period. The repository also includes sentiment analysis on a Twitter dataset to validate the performance of various machine-learning models.
 
+Source of mcu.csv is: https://www.kaggle.com/datasets/pdunton/marvel-cinematic-universe-dialogue?select=mcu.csv
+
 Link to twits.csv file: https://www.dropbox.com/scl/fi/rjh157s4dc3ct5u86kd2s/twits.csv?rlkey=7d3cxl6nfzytskizafhi5fzyp&dl=0
 
 This file is too large for GitHub to upload; it contains many Twitter feeds from 2009 to 2011.
